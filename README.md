@@ -25,4 +25,4 @@ If registered and login as a student, he/she can get the available time slots th
 
 4. Import the database script into SQLPro or MySQLWorkbench to create the database.
 
-5. Open your web browser, type localhost/PHP-SimpleChatApplication/index.php
+5. Open your web browser, type localhost/PHP-SimpleChatApplication/signup.html
