@@ -15,3 +15,14 @@ If registered and login as a student, he/she can get the available time slots th
 
 ![Aaron Swartz](https://github.com/elva329/LAMP-TutorialCenterReservationConsole/raw/master/screenshots/student.gif)
 
+# Steps to run the application
+
+1. Clone or download the source code package.
+
+2. Install XAMPP and start all the server.
+
+3. Put the source code package into the htdocs folder of XAMPP.
+
+4. Import the database script into SQLPro or MySQLWorkbench to create the database.
+
+5. Open your web browser, type localhost/PHP-SimpleChatApplication/index.php
