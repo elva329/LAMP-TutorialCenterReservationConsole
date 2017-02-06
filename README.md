@@ -11,7 +11,7 @@ The objective of TCRC is to allow tutors to select time slots during which they 
 
 ![Aaron Swartz](https://github.com/elva329/LAMP-TutorialCenterReservationConsole/raw/master/screenshots/tutor.gif)
 
-3. If registered and login as a student, he/she can get the available time slots that the tutor provides.
+If registered and login as a student, he/she can get the available time slots that the tutor provides.
 
 ![Aaron Swartz](https://github.com/elva329/LAMP-TutorialCenterReservationConsole/raw/master/screenshots/student.gif)
 
