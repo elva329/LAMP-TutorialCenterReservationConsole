@@ -6,6 +6,6 @@ The objective of TCRC is to allow tutors to select time slots during which they 
 
 # The application covers following functionalities:
 
-•	Register an account as a tutor or student.
-•	If registered and login as a tutor, he/she can select the available time slots that he can provide. The total available time slots will be added up. 
-•	If registered and login as a student, he/she can get the available time slots that the tutor provides.
+1. Register an account as a tutor or student.
+2. If registered and login as a tutor, he/she can select the available time slots that he can provide. The total available time slots will be added up. 
+3. If registered and login as a student, he/she can get the available time slots that the tutor provides.
